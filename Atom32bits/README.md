@@ -1,9 +1,18 @@
+
+<p align="center">
+    <img src="./src/atomlogo.png" width="650"/>
+</p>
+
+
+
+
+
 # How to install atom.io 32bits
 
 ```
+sudo apt-get update
 sudo add-apt-repository ppa:webupd8team/atom
 sudo apt install atom
-sudo apt-get update
 ```
 
 # Packages to use with angular2 && typescript with atom
