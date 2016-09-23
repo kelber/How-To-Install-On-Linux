@@ -9,7 +9,7 @@ sudo npm install -g angular-cli
 # Updating your angular-cli
 
 ```
-npm uninstall -g angular-cli
-npm cache clean
-npm install -g angular-cli@latest
+sudo npm uninstall -g angular-cli
+sudo npm cache clean
+sudo npm install -g angular-cli@latest
 ```
