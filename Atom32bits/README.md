@@ -1,6 +1,6 @@
 
 <p align="center">
-    <img src="./src/atomlogo.png" width="650"/>
+    <img src="./src/atomlogo.png" width="250"/>
 </p>
 
 
