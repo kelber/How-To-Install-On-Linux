@@ -6,15 +6,6 @@ sudo apt install atom
 sudo apt-get update
 ```
 
-
-# Updating your angular-cli
-
-```
-npm uninstall -g angular-cli
-npm cache clean
-npm install -g angular-cli@latest
-```
-
 # Packages to use with angular2 && typescript with atom
 
 - Typescript
