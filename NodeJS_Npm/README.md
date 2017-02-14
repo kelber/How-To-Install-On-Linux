@@ -1,20 +1,20 @@
-## First update your system
+## 1 - Update your system
 ```
   sudo apt-get update
 ```
 
-### Second Install nodeJS + NPM
+### 2 - Install nodeJS + NPM
 ```
   sudo apt-get install nodejs
   sudo apt-get install npm
 ```
 
-### Third - install nodejs-legacy
+### 3 - Install nodejs-legacy
 ```
   sudo apt-get install nodejs-legacy
 ```
 
-### Fourth - Check is npm is working
+### 4 - Check is npm is working
 
 create a directory and run npm init
 ```
