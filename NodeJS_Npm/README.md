@@ -1,15 +1,33 @@
-## 1 - Update your system
+## 1 - Cache clean 
+```
+sudo npm cache clean -f
+```
+
+## 2 - Install **n**
+```
+sudo npm install -g n
+```
+
+or if you prefer the stable version
+```
+sudo n stable
+```
+
+
+## 3 - Update your system
 ```
   sudo apt-get update
 ```
 
-### 2 - Install nodeJS + NPM
+You can install using this commands too but have an error with @angular/cli
+
+###  Install nodeJS + NPM
 ```
   sudo apt-get install nodejs
   sudo apt-get install npm
 ```
 
-### 3 - Install nodejs-legacy
+###  Install nodejs-legacy
 ```
   sudo apt-get install nodejs-legacy
 ```
